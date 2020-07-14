@@ -11,7 +11,11 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/hello")
     public String index() {
-        StringUtils.split("s,ew,sa,w", ",");
+        String[] split = StringUtils.split("s,ew,sa,w", ",");
+        for (String a:split
+             ) {
+            System.out.println(a+"space");
+        }
         return "hello world!";
     }
 

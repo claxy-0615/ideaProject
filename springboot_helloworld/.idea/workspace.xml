@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc9d3a7-7f01-4c6e-914c-3b0025b4c4b7" name="Default Changelist" comment="" />
+    <list default="true" id="9cc9d3a7-7f01-4c6e-914c-3b0025b4c4b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iwhalecloud/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iwhalecloud/controller/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -101,6 +110,8 @@
       <workItem from="1593237919308" duration="4396000" />
       <workItem from="1594733189045" duration="14000" />
       <workItem from="1594733486968" duration="554000" />
+      <workItem from="1594735236265" duration="403000" />
+      <workItem from="1594736020553" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="HelloController.java">
       <created>1594733639333</created>
@@ -109,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594733639333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HelloController.java">
+      <created>1594735475848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594735475849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,24 +155,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HelloController.java" />
     <option name="LAST_COMMIT_MESSAGE" value="HelloController.java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1594733637778">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1594735475143">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594733637778" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594735475143" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594733200179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594733200179" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594733708654">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1594736220333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594733708654" />
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594736220333" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594736068324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594736068324" />
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog" timestamp="1594735464726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1594735464726" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594733512744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
