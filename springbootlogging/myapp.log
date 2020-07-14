@@ -1,0 +1,11 @@
+2020-06-29 16:00:37.908  INFO 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : Starting SpringbootloggingApplicationTests on LAPTOP-A6PRU3OI with PID 5164 (started by chengyaxu in D:\IdeaFIles\springbootlogging)
+2020-06-29 16:00:37.908 DEBUG 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-29 16:00:37.908  INFO 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : No active profile set, falling back to default profiles: default
+2020-06-29 16:00:39.011  INFO 5164 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-29 16:00:39.243  INFO 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : Started SpringbootloggingApplicationTests in 1.625 seconds (JVM running for 2.597)
+2020-06-29 16:00:39.412 TRACE 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : this is trace
+2020-06-29 16:00:39.412 DEBUG 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : this is a debug
+2020-06-29 16:00:39.412  INFO 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : this is a info
+2020-06-29 16:00:39.412  WARN 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : this is  a warn
+2020-06-29 16:00:39.412 ERROR 5164 --- [main] c.i.s.SpringbootloggingApplicationTests  : this is a error
+2020-06-29 16:00:39.427  INFO 5164 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
