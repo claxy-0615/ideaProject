@@ -11,7 +11,7 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/hello")
     public String index() {
-        StringUtils.split("s,ew,sa,w", ",")
+        StringUtils.split("s,ew,sa,w", ",");
         return "hello world!";
     }
 
