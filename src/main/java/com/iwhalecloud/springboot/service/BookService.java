@@ -26,9 +26,7 @@ public class BookService {
     public void updateName(){
         bookDao.updateName();
     }
-    public void deleteById(Integer id){
-        bookDao.deleteById(id);
-    }
+    public void deleteById(Integer id) { bookDao.deleteById(id); }
     public void insertOne(Integer id,String name,String author){
         bookDao.insertOne(id,name,author);
     }

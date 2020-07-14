@@ -1,7 +1,6 @@
 package com.iwhalecloud.springboot.dao;
 
 import com.iwhalecloud.springboot.entity.Book;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.apache.ibatis.annotations.*;
 import org.springframework.stereotype.Component;
 
