@@ -8,9 +8,9 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * @ClassName:
- * @Version information:
- * @Copyright notice:
+ * @ClassName: bookDao
+ * @Version information: 001
+ * @Copyright notice:iwhalecloud
  * @Date: 2020-07-12 13:32
  **/
 @Mapper
